@@ -1,0 +1,3 @@
+run node master.js
+
+Restart the services by sending kill -s SIGUSR2 pid
